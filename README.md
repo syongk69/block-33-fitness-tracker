@@ -1,5 +1,12 @@
 # Workshop: Backend Fundamentals - Fitness Trackr
 
+
+## * PORT 3000 used
+
+## ** DATABASE_URL is defined in .env file (not included)
+
+
+
 ## Introduction
 
 In this workshop, you'll be provided this GitHub repo with details for a full operational CRUD API that uses Express.JS, PostgreSQL, and other technologies that you've been trained on.
