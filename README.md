@@ -1,9 +1,9 @@
 # Workshop: Backend Fundamentals - Fitness Trackr
 
 
-## * PORT 3000 used
+### * PORT 3000 used
 
-## ** DATABASE_URL is defined in .env file (not included)
+### ** DATABASE_URL is defined in .env file (not included)
 
 
 
